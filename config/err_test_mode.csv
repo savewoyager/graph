@@ -1,0 +1,6 @@
+parameter,value
+package,org.apache.commons:commons-lang3:3.14.0
+repository,https://repo1.maven.org/maven2/
+test_mode,abc
+max_depth,5
+filter,
