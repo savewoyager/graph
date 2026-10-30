@@ -63,7 +63,6 @@ bool load_config(const std::string& filename, Config& config)
 
     std::string line;
 
-    // Пропускаем заголовок CSV
     std::getline(file, line);
 
     while (std::getline(file, line))
